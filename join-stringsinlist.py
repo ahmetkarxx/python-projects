@@ -1,5 +1,11 @@
 # -*- coding: utf-8 -*-
 
+"""
+@Author: Ahmet Kar
+Recursion fonksiyonlardan faydalanılarak içiçe listeleri birleştirme
+"""
+
+
 # Oncelikle recursion fonksiyon kullandığımızda sorun çıkmaması için global bir bir birleşim değişkeni kullanmalıyız.
 
 birlesim = ""
