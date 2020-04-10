@@ -3,6 +3,8 @@
 """
 @Author: Ahmet Kar
 -For döngüsü ve listeler yardımıyla fibonacci dizisi oluşturmak
+Düzeltme : Bu yöntem sonucu bulmak için verimsizdir.Çünkü her sayı hafızada tutulmaktadır.Ama her sayıya ihtiyacımız olduğunda
+kullanılabilir.
 """
 
 #Dizinin boyutunu alalım
